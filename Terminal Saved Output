@@ -1,0 +1,204 @@
+Last login: Sun Nov  6 09:16:13 on ttys001
+marshallmathers@johanns-MacBook-Pro ~ % >....                                   
+Incompatible existing file, directory or symbolic link
+
+Layouts cannot replace an existing but incompatible filesystem object. This means, for example, that files cannot replace directories or symbolic links, files cannot replace a directory, and existing symbolic links cannot be redirected to a new target. You can, however, replace a directory with another directory.
+
+Last updated 8 months ago.
+
+Help improve this document in the forum.
+Back to top
+
+© 2022 Canonical Ltd.
+Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+Powered by Charmed Kubernetes
+
+Join the forum, contribute to or report problems with, snapd, Snapcraft, or this site.
+
+Share on Twitter Share on Facebook Share on YouTube
+Terms of Service  Data privacy  Manage your tracker settings  Service status  Other functions
+
+zsh: parse error near `\n'
+marshallmathers@johanns-MacBook-Pro ~ % 
+marshallmathers@johanns-MacBook-Pro ~ % 
+marshallmathers@johanns-MacBook-Pro ~ % >....                                   
+Incompatible existing file, directory or symbolic link
+
+Layouts cannot replace an existing but incompatible filesystem object. This means, for example, that files cannot replace directories or symbolic links, files cannot replace a directory, and existing symbolic links cannot be redirected to a new target. You can, however, replace a directory with another directory.
+
+Last updated 8 months ago.
+
+Help improve this document in the forum.
+Back to top
+
+© 2022 Canonical Ltd.
+Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+Powered by Charmed Kubernetes
+marshallmathers@johanns-MacBook-Pro ~ % >....                                                                                                                                                               
+/dev/null
+2                                                                                               
+/dev/null
+3                                                                                               
+/Users/marshallmathers/Library/Safari/Favicon Cache/favicons.db                                            
+4 
+/Users/marshallmathers/Library/Safari/Favicon Cache/favicons.db-lock                  
+5 
+/Users/marshallmathers/Library/Safari/Favicon Cache/favicons.db-wal                    
+6 
+/Users/marshallmathers/Library/Safari/Favicon Cache/favicons.db-shm                              
+7 
+->0x589e01c289594fd9                                                                              
+8 
+/System/Library/Extensions/AppleMetalOpenGLRenderer.bundle/Contents/Resources/default.metallib
+9 
+/private/var/folders/dd/cztb3yd10w7d0_63l9z_bb400000gn/C/com.apple.Safari/com.apple.Safari/com.apple.metal/16777235_402/functions.data
+10
+/private/var/folders/dd/cztb3yd10w7d0_63l9z_bb400000gn/C/com.apple.Safari/com.apple.Safari/com.apple.metal/16777235_402/functions.list
+11
+/System/Library/Extensions/AppleMetalOpenGLRenderer.bundle/Contents/Resources/PixelConverter.metallib
+12
+/Users/marshallmathers/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/Metadata.db
+13
+/Users/marshallmathers/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/Metadata.db-lock
+14
+/Users/marshallmathers/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/Metadata.db-wal
+15
+/Users/marshallmathers/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/Metadata.db-shm
+16
+/Users/marshallmathers/Library/Containers/com.apple.Safari/Data/Library/Safari/SafariTabs.db
+17
+/Users/marshallmathers/Library/Containers/com.apple.Safari/Data/Library/Safari/SafariTabs.db-wal
+18
+/Users/marshallmathers/Library/Containers/com.apple.Safari/Data/Library/Safari/SafariTabs.db-shm
+19
+/Users/marshallmathers/Library/Containers/com.apple.Safari/Data/Library/Safari/SafariTabsSyncMetadata.plist
+20
+/System/Library/Frameworks/CoreImage.framework/Versions/A/Resources/ci_stdlib.metallib
+21
+/System/Library/Frameworks/CoreImage.framework/Versions/A/Resources/ci_filters.metallib
+22
+/System/Library/Frameworks/CoreImage.framework/Versions/A/Resources/ci_stdlib_stitchable.metallib
+23
+/System/Library/Frameworks/CoreImage.framework/Versions/A/Resources/ci_filters_stitchable.metallib
+marshallmathers@johanns-MacBook-Pro ~ % >....                                                                                                                                                               
+txt
+/private/var/folders/dd/cztb3yd10w7d0_63l9z_bb400000gn/C/com.apple.Safari.SafeBrowsing/Google/social_engineering,osx,url_expression
+txt
+/System/Library/Fonts/Apple Color Emoji.ttc
+0
+/dev/null
+1
+/dev/null
+2
+/dev/null
+3
+/Users/marshallmathers/Library/Safari/Favicon Cache/favicons.db
+4
+/Users/marshallmathers/Library/Safari/Favicon Cache/favicons.db-lock
+5
+/Users/marshallmathers/Library/Safari/Favicon Cache/favicons.db-wal
+6
+/Users/marshallmathers/Library/Safari/Favicon Cache/favicons.db-shm
+7
+->0x589e01c289594fd9
+8
+/System/Library/Extensions/AppleMetalOpenGLRenderer.bundle/Contents/Resources/default.metallib
+9
+/private/var/folders/dd/cztb3yd10w7d0_63l9z_bb400000gn/C/com.apple.Safari/com.apple.Safari/com.apple.metal/16777235_402/functions.data
+10
+/private/var/folders/dd/cztb3yd10w7d0_63l9z_bb400000gn/C/com.apple.Safari/com.apple.Safari/com.apple.metal/16777235_402/functions.list
+11
+/System/Library/Extensions/AppleMetalOpenGLRenderer.bundle/Contents/Resources/PixelConverter.metallib
+12
+/Users/marshallmathers/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/Metadata.db
+13
+/Users/marshallmathers/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/Metadata.db-lock
+14
+/Users/marshallmathers/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/Metadata.db-wal
+15
+/Users/marshallmathers/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/Metadata.db-shm
+16
+/Users/marshallmathers/Library/Containers/com.apple.Safari/Data/Library/Safari/SafariTabs.db
+17
+/Users/marshallmathers/Library/Containers/com.apple.Safari/Data/Library/Safari/SafariTabs.db-wal
+18
+/Users/marshallmathers/Library/Containers/com.apple.Safari/Data/Library/Safari/SafariTabs.db-shm
+19
+/Users/marshallmathers/Library/Containers/com.apple.Safari/Data/Library/Safari/Smarshallmathers@johanns-MacBook-Pro ~ % >....                                   
+Set when the installation of seeded snaps for the model has finished.
+
+factory: true
+Only possible on a UC20+ system in install mode (system-mode: install) with the factory image hint set. This value can be used to govern whether factory-only resources may be available. See Factory image hint for more details.
+
+Last updated 27 days ago.
+
+Help improve this document in the forum.
+Back to top
+
+© 2022 Canonical Ltd.
+Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+Powered by Charmed Kubernetes
+
+Join the forum, contribute to or report problems with, snapd, Snapcraft, or this site.
+
+Share on Twitter Share on Facebook Share on YouTube
+Terms of Service  Data privacy  Manage your tracker settings  Service status  Other functions
+
+zsh: parse error near `\n'
+marshallmathers@johanns-MacBook-Pro ~ % 
+marshallmathers@johanns-MacBook-Pro ~ % \n'unparse""()
+quote> re-base/unpartse
+quote> >....                                                                    
+       fingerprint, and confirm that this is present in this certificate above.
+
+To Calculate SHA-2 Fingerprint of a file:
+   - Online at http://TrueTimeStamp.org
+   - Using software such as sha256sum, or openssl, with the command-lines:
+        sha256sum MyFileName
+        openssl dgst -sha256 MyFileName
+
+Sequential Validity Chain:
+   - Guards against back-dating any time stamp, or removing any time stamp
+         in the future.
+   - Consists of SHA-2( Sequential Validity Chain of previous certificate,
+         SHA-2 of current file, UNIX Time Stamp).
+   - Validity Chains are intermittently submitted to other Time Stamping
+         Services.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.14 (GNU/Linux)
+
+iF4EAREIAAYFAmNqz6MACgkQbzsuardIqPgm7wD/RomyrlxwSH9DBlub05geFWP5
+LMzZe3Fvxmiz74ud3ZoBALwGaMlUME1p7nNB0Q5zpyPNl3x652IMZPg7WD1UA9vl
+=qAEf
+-----END PGP SIGNATURE-----
+
+zsh: command too long: nunparse""()\nre-base/unpartse\nTo: -----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\n============================================================================\n   Certificate\n============================================================================\nIn conjunction with the file(s) that produce the following SHA-2 fingerprint,\nand in conjunction with the verification procedures available on\nTrueTimeStamp.org (copy available below), this certifies that the following\nfile existed and was time-stamped on:\n\nTime: November 8, 2022 9:52:35 pm GMT\nStored SHA-2 Fingerprint:\n91f8dccc6f6744dd4a9cd364e0376a884f4a636efc9846869c3752730b206832\nCertificate Type: single-file\nConstituent Files:\n91f8dccc6f6744dd4a9cd364e0376a884f4a636efc9846869c3752730b206832\tbitcoin-wallet.1\n\n============================================================================\n   Certificate Information\n============================================================================\nAuthority: True Time Stamp ( http://TrueTimeStamp.org )\nCertificate Number: 55843\nSequential Validity Chain: 44d79e9790602a4ca7df0c4b9a77fd78c12379d9dbdda98b78ddaa6c6cdbec48\n\n============================================================================\n   Important Note\n============================================================================\n1 - Backup copy of the original unaltered file must be kept to authenticate\n    this certificate. \n2 - Some editing programs may inadverently alter files by including the\n    "save time" in the file contents, or changing character encoding, even if\n     no edits are made.  Back-up using your operating systems
+zsh: command not found: rather
+zsh: =========================================================================== not found
+marshallmathers@johanns-MacBook-Pro ~ % >....                                   
+       fingerprint, and confirm that this is present in this certificate above.
+
+To Calculate SHA-2 Fingerprint of a file:
+   - Online at http://TrueTimeStamp.org
+   - Using software such as sha256sum, or openssl, with the command-lines:
+        sha256sum MyFileName
+        openssl dgst -sha256 MyFileName
+
+Sequential Validity Chain:
+   - Guards against back-dating any time stamp, or removing any time stamp
+         in the future.
+   - Consists of SHA-2( Sequential Validity Chain of previous certificate,
+         SHA-2 of current file, UNIX Time Stamp).
+   - Validity Chains are intermittently submitted to other Time Stamping
+         Services.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.14 (GNU/Linux)
+
+iF4EAREIAAYFAmNqz6MACgkQbzsuardIqPgm7wD/RomyrlxwSH9DBlub05geFWP5
+LMzZe3Fvxmiz74ud3ZoBALwGaMlUME1p7nNB0Q5zpyPNl3x652IMZPg7WD1UA9vl
+=qAEf
+-----END PGP SIGNATURE-----
+
+quote> https://www.paypal.me/monzturrmathers/00-2294-1479-5220-5291/edu/
+quote> /Applications/Quicken.app 
+quote> /Applications/Quicken.app/bitcore;clp;terminal;cryptowat.ch/cryptotracker;portfolio;decode;encode;auto_detect_
